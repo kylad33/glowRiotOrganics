@@ -16,7 +16,6 @@
     "jsx": "preserve",
     "incremental": true,
     "types": ["node", "vitest/globals"],
-    "baseUrl": ".",
     "paths": { "@/*": ["./*"] }
   },
   "include": ["**/*.ts", "**/*.tsx"],
